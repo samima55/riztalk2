@@ -1,0 +1,22 @@
+.active{
+    background-color: rgb(153, 255, 204);
+}
+
+.alert-sucess{
+    padding: 10px;
+    background-color: rgba(161, 255, 85, 0.333);
+    color: white;
+
+}
+
+
+.alert-sucess{
+    padding: 10px;
+    background-color: rgba(255, 85, 113, 0.726);
+    color: white;
+
+}
+
+.label{
+    width: 100%;
+}
